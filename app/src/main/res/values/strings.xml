@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FootballMatchSchedule</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="last_matches">Last Match</string>
+    <string name="next_matches">Next Match</string>
+    <string name="favorites">Favorite</string>
+    <string name="vs">VS</string>
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="lineup">Lineup</string>
+    <string name="goalkeeper">Goal Keeper</string>
+    <string name="defend">Defend</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="substitutes">Substitutes</string>
+</resources>

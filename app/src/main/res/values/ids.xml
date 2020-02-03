@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_date" type="id"/>
+    <item name="text_team_home" type="id"/>
+    <item name="text_team_away" type="id"/>
+    <item name="text_home_score" type="id"/>
+    <item name="text_away_score" type="id"/>
+    <item name="image_home" type="id"/>
+    <item name="image_away" type="id"/>
+    <item name="bottom_layout" type="id"/>
+    <item name="bottom_navigation" type="id"/>
+    <item name="main_container" type="id"/>
+    <item name="list_match" type="id"/>
+</resources>
